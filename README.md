@@ -6,6 +6,18 @@ An end-to-end fraud detection project that compares classical statistical method
 
 ## Overview
 
+## Project Summary
+
+| Attribute | Value |
+|-----------|-------|
+| Domain | Fraud Detection |
+| Dataset | Synthetic Financial Transactions |
+| Observations | 12,000 |
+| Features | 24 |
+| Fraud Rate | 2.13% |
+| Models | Linear Regression, Logistic Regression, MLP, Autoencoder |
+| Language | Python |
+
 Fraud detection is a highly imbalanced binary classification problem where fraudulent transactions represent only a small fraction of all observations. This project develops a complete analytical pipeline, from data preprocessing and exploratory analysis to predictive modelling and performance evaluation.
 
 Both classical statistical models and machine learning techniques are implemented and compared to assess their effectiveness in identifying fraudulent transactions.
